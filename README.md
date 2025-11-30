@@ -60,7 +60,7 @@ Execute the compiled program from your terminal:
 
 -----
 
-## 📋 Usage Guide
+## Usage Guide
 
 Upon starting, you'll be prompted to enter the initial number of products, followed by their details (Code, Name, Price, Stock).
 
@@ -80,7 +80,7 @@ The main menu will then appear for operations:
 
 If you find an issue or have suggestions for improvement, please open an issue or submit a pull request.
 
-## ⚖️ License
+## License
 
 This project is for educational purposes only.
 
